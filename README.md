@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# portfolio-
-=======
 <div align="center">
   <img alt="Logo" src="https://github.com/Mibei-Collins/Portfolio/blob/main/src/images/logo.png" width="150" />
 </div>
@@ -76,4 +73,3 @@ Collins Mibei's Portfolio Website :)
 | `--green`           | ![#e85a4f](https://via.placeholder.com/10/e85a4f?text=+) `#e85a4f`                           |
 | `--green-tint-dark` | ![#8b362f](https://via.placeholder.com/10/8b362f?text=+) `#8b362f`                           |
 | `--green-tint`      | ![#f6bdb9](https://via.placeholder.com/10/f6bdb9?text=+) `#f6bdb9`                           |
->>>>>>> ea6665e (Add portfolio project files refactored from Brittany Chiang's template)
